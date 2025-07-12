@@ -4,6 +4,11 @@
   font-weight: normal;
 }
 
+html {
+  height: 100%;
+  background-color: #141414;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
